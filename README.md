@@ -16,13 +16,10 @@ This repository contains the source code for the "React.js AI Chatbot App with C
 2. Click on the green "Code" button to open a list and then click on the "Download ZIP" button to download a source code.
 
 
-<img width="472" alt="Screenshot 2024-06-25 at 17 34 44" src="https://github.com/dvasyliev/react-crash-course/assets/24624324/5e67c693-39fd-4262-b0ff-7aa81f439642">
-
 ## Open project in the VS code (code editor)
 
 Open the archive on your computer, open VS code (code editor) and cick "File" -> "Open Folder" -> Choose project folder => "Open".
 
-<img width="470" alt="Screenshot 2024-06-25 at 17 40 31" src="https://github.com/dvasyliev/react-crash-course/assets/24624324/ec7661e5-d8e7-409f-a935-5a55335553e9">
 
 ## Start application
 
